@@ -1,0 +1,48 @@
+name: onemgtestlab
+description: A new Flutter 1mg clone application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  carousel_slider: ^1.3.0
+  carousel_pro: ^0.0.13
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+  - assets/images/thyrocare.webp
+  - assets/images/Pathcare.webp
+  - assets/images/1mglabs_1.webp
+  - assets/images/dr.lalpathlabs.webp
+  - assets/images/Medcis.webp
+  - assets/images/srl.webp
+  - assets/images/metro.png
+  - assets/images/mahajanimaging.jpg
+  - assets/images/Metropolis-logo_new.webp
+  - assets/images/homepageimage.webp
+  - assets/images/Security.png
+  - assets/images/empty-cart-icon.png
+  - assets/images/validate_rx.png
+  - assets/images/diag_ISO.webp
+  - assets/images/diag_NABL.webp
+  - assets/images/HealthProductImage.png
+  - assets/images/MedicineOffer.png
+  - assets/images/LabTestImage.png
+  - assets/images/logo.png
+  - assets/images/powered_by.png
+  - assets/images/1mg.jpg
+
