@@ -1,6 +1,6 @@
 # Flutter 1mg App UI Demo
 
-A sample app to showcase classified app using flutter. 
+A sample app to showcase 1mg app using flutter. 
 
 # Demo
 <img height="480px" width="270px" src="https://github.com/flutter-devs/flutter_1mg_ui_demo/blob/master/screens/demo.gif">
