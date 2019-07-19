@@ -1,4 +1,4 @@
-# Flutter Classified App Demo
+# Flutter 1mg App UI Demo
 
 A sample app to showcase classified app using flutter. 
 
